@@ -71,7 +71,7 @@ body{
     .gallery{
         width: 100%;
         padding-inline: 12px;
-        grid-auto-rows: 580px;
+        grid-auto-rows: 780px;
     }
     .box{
         grid-row: span 1;
