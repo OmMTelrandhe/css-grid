@@ -1,2 +1,2 @@
 # css-grid
-Responsive MIni Project using CSS grid
+Demonstration of CSS grid
