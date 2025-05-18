@@ -1,2 +1,2 @@
 # css-grid
-Demonstration of CSS grid
+Demonstration of CSS grid.
